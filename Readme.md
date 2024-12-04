@@ -27,7 +27,7 @@ A dynamically resizable and draggable box with rounded corners, developed using 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/corner-box.git
+   git clone https://github.com/RushilVerma/Google-Lens-Box-UI.git
    ```
 2. Add the `CornerBox` component to your project.
 
@@ -128,6 +128,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Contact
 
-For questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please reach out to [rushilverma07@gmail.com](mailto:rushilverma07@gmail.com).
 
 Happy coding! 🚀
